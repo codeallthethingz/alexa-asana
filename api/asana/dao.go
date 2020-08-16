@@ -64,7 +64,7 @@ func (d *DAOImpl) CreateTask(task string, user string) error {
 	if strings.TrimSpace(projectID) == "" {
 		return fmt.Errorf("must supply ASANA_PROJECT_ID as an environment variable")
 	}
-	assignee := `"assignee": "` + users[user] + `",`
+	assignee := ``
 	data := `{
 		"data": {
 			"name": "` + task + `", ` + assignee + `
