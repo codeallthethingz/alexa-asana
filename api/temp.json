@@ -1,0 +1,51 @@
+{
+    "version": "1.0",
+    "session": {
+        "new": true,
+        "sessionId": "amzn1.echo-api.session.cf49a4d8-8a5a-4f35-abef-cee15b62b998",
+        "application": {
+            "applicationId": "amzn1.ask.skill.6764a717-3480-4b95-816c-e5b25563dddb"
+        },
+        "user": {
+            "userId": "amzn1.ask.account.AEJJDVS5D3ZBZUFK6IHCNVGEHASUKTWE6ANKPHOJFLDJIYLRF6LOHBCDAUKBSCC4CXTLYDYASHPQJQXJEUI6GGLHU6EFB7IDBTM6V3YJHD7K6OEHNK4D6VI5TAP3UCOI5U7YERSZIXQB6WYGDWENTRJVHLRZ3N5S5WRM663AWHVQSYR5UN4OSDOM5XUJRYAK6JFJG2VRKRZEWYQ"
+        }
+    },
+    "context": {
+        "System": {
+            "application": {
+                "applicationId": "amzn1.ask.skill.6764a717-3480-4b95-816c-e5b25563dddb"
+            },
+            "user": {
+                "userId": "amzn1.ask.account.AEJJDVS5D3ZBZUFK6IHCNVGEHASUKTWE6ANKPHOJFLDJIYLRF6LOHBCDAUKBSCC4CXTLYDYASHPQJQXJEUI6GGLHU6EFB7IDBTM6V3YJHD7K6OEHNK4D6VI5TAP3UCOI5U7YERSZIXQB6WYGDWENTRJVHLRZ3N5S5WRM663AWHVQSYR5UN4OSDOM5XUJRYAK6JFJG2VRKRZEWYQ"
+            },
+            "device": {
+                "deviceId": "amzn1.ask.device.AGJNHXMIG4AL2N4TDMM7GCNYQCIUNMGQG32NTJWXZRCBIVBZN6JTRD36L37OURQCZOGLQQ537UB55PZ6LMYNMAMBE4YHO7RRM7PPE6JLXN4IDHVCACX45DKEXZDWXKL675S24WDHFRCN3OZXQKVY5JXBST2V6YNRFBMJZGF76ZC3YTTKAUCS2",
+                "supportedInterfaces": {}
+            },
+            "apiEndpoint": "https://api.amazonalexa.com",
+            "apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLjY3NjRhNzE3LTM0ODAtNGI5NS04MTZjLWU1YjI1NTYzZGRkYiIsImV4cCI6MTU5NzYxMTQ2NywiaWF0IjoxNTk3NjExMTY3LCJuYmYiOjE1OTc2MTExNjcsInByaXZhdGVDbGFpbXMiOnsiY29udGV4dCI6IkFBQUFBQUFBQUFDNGRYSDkweFNsRHBOOWZxNlZmWTNLYkFFQUFBQUFBQUFGT2p4d0djVHZzK0xnd1ZnSUVaaSt2K1YvcUE4OXNLSXQ3OXV3ZFh1elJIZUdNRGFiNWdOejZ0dy9EZlMwS2ZCc3hoSXBZWllOMnVFa09WZFd5Qjd1dVJ5cWlQaFBhNDc3aDRrTTUrVTh0N0xTUm9aZzBzdmV0S1hsdXQwR1VLQVpqMnRTdEUwek43WjJqMzdmM1RHNlp6aEd5V3gwN09TdXl2MmdmR01WZEdDeWxwUTRlZjIvQ3ZnengyM1B6ODRMY3VaZ1BmMkJPQzRnN1ZIWGZDenJsUmVnUDJ4NVorN1MyNCtRQXNlZXFDY1dxMk1CcHFhUDZWdTFmRDFtY2l1MzQza2ltOUNsbGdVSmFZODBvem9Mekl2ZkRxMXUrUDlUZk5kbjJXNk9JVnZ6VTVNcVJZcWNFSmptZ2lGbmVQaTlpTGI4bDF1U2lIL084am85TkdDSmlWbVdQN0lkMGhtSXYvUmh4eVNzVjJrYlU4NVVGU3dxVVlHVzNOREVjTkhTdTV3SWYrSHZBZDdiKzA2RWlDb3JObXYrbkg4UmkrbldvZXBmRlJ6dHh3cm0xMHBDd0RtemhGU0hFb3FrVFFUM1pIazZwVkNkUVhxcHNobkpGK0hSUlJYWGQwclBYa1FqRkxZbiIsImNvbnNlbnRUb2tlbiI6bnVsbCwiZGV2aWNlSWQiOiJhbXpuMS5hc2suZGV2aWNlLkFHSk5IWE1JRzRBTDJONFRETU03R0NOWVFDSVVOTUdRRzMyTlRKV1haUkNCSVZCWk42SlRSRDM2TDM3T1VSUUNaT0dMUVE1MzdVQjU1UFo2TE1ZTk1BTUJFNFlITzdSUk03UFBFNkpMWE40SURIVkNBQ1g0NURLRVhaRFdYS0w2NzVTMjRXREhGUkNOM09aWFFLVlk1SlhCU1QyVjZZTlJGQk1KWkdGNzZaQzNZVFRLQVVDUzIiLCJ1c2VySWQiOiJhbXpuMS5hc2suYWNjb3VudC5BRUpKRFZTNUQzWkJaVUZLNklIQ05WR0VIQVNVS1RXRTZBTktQSE9KRkxESklZTFJGNkxPSEJDREFVS0JTQ0M0Q1hUTFlEWUFTSFBRSlFYSkVVSTZHR0xIVTZFRkI3SURCVE02VjNZSkhEN0s2T0VITks0RDZWSTVUQVAzVUNPSTVVN1lFUlNaSVhRQjZXWUdEV0VOVFJKVkhMUlozTjVTNVdSTTY2M0FXSFZRU1lSNVVONE9TRE9NNVhVSlJZQUs2SkZKRzJWUktSWkVXWVEifX0.UqFZB3acQRCnvWG4_zDLXSDoALvkPviUP3emPnusyeat_Uwe7tHC5DrOGgs7mwiEFhJg4AObZhiu7_dhyeVyIbuKyfSGvKNJvKJfl_zM0iyQeCrty_kbkdCqIL57rB_Rr7KkGZradtEHksdVBYfbkySovMZK70UmEIxZgZGYpux9NorMnczYzYJkYnRYALulYVVLWX_BAhwXo4y0tqclqVUfsWUo5giaCXsvZ9xE8Sj4iFfQVOLb_Iuduu10h1fT77YVbqvPLfMnOts2f0FGLGKQNwO5uiHT8dvd5Jhpsd9UJTEJrINNLzSiInwiQO-Hy3MAb0Bmiyed_P4tdWXTEw"
+        }
+    },
+    "request": {
+        "type": "IntentRequest",
+        "requestId": "amzn1.echo-api.request.9723265e-2701-476f-a863-cc69d1187da3",
+        "locale": "en-US",
+        "timestamp": "2020-08-16T20:52:47Z",
+        "intent": {
+            "name": "task",
+            "confirmationStatus": "NONE",
+            "slots": {
+                "utterance": {
+                    "name": "utterance",
+                    "value": "water the plants",
+                    "confirmationStatus": "NONE",
+                    "source": "USER",
+                    "slotValue": {
+                        "type": "Simple",
+                        "value": "water the plants"
+                    }
+                }
+            }
+        }
+    }
+}
